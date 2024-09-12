@@ -1,0 +1,74 @@
+.toDo-container{
+    background-color: aliceblue;
+    padding:15px;
+}
+.toDos-top-heading{
+    font-size: 40px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.bottom-container{
+    padding-bottom:45px;
+}
+.create-task-heading{
+    font-size:27px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-bottom:10px;
+}
+.input-container{
+    height:45px;
+    width:100%;
+    border:none;
+}
+.add-button{
+    height:30px;
+    width:50px;
+    margin-top:20px;
+    color:white;
+    background-color: rgb(49, 49, 145);
+    border-radius: 5px;
+    border:none;
+}
+.my-tasks-heading{
+    font-size: 27px;
+    font-family: "roboto";
+    font-weight:bold;
+    margin-bottom: 30px;
+    margin-top: 80px;
+}
+.task-container{
+    background-color: rgb(218, 233, 247);
+    width:100%;
+    padding:10px;
+    font-size: 24px;
+    font-family: "Roboto";
+    border-radius: 6px;
+    border-color: rgb(49, 49, 145);
+    border-left: none;
+    border-right:none;
+    border-top:none;
+    border-bottom: none;
+    margin-bottom:15px;
+}
+.checkbox1{
+    margin-right:10px;
+    height: 20px;
+    width:20px;
+    margin-top:20px;
+
+}
+.delete-icon-container{
+    text-align:right;
+    width:18%;
+
+}
+.delete-icon{
+    padding:10px;
+}
+.checkboxText{
+    width:89%;
+}
+.checked{
+    text-decoration: line-through;
+}
